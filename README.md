@@ -11,3 +11,4 @@
 	git fetch <Developer git URL>;
 	git checkout master;
 	git merge FETCH_HEAD;
+11. Finally, changes are pushed to remote maintainers server using: git push origin master
